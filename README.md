@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahezeen</h1>
 
-<h3 align="center">🎓 Computer Science Engineering (Cybersecurity) Student</h3>
-
 <p align="center">
-💻 Software Developer | 🔐 Cybersecurity Enthusiast
+<strong>🎓 Computer Science Engineering (Cybersecurity) Student</strong> | 💻 Software Developer | 🔐 Cybersecurity Enthusiast
 </p>
 
 <p align="center">
@@ -21,7 +19,7 @@
 - ⛓️ Exploring Blockchain development and decentralized applications.
 - 🚀 Love building innovative projects and continuously learning new technologies.
 - 🤝 Open to internships, collaborations, and open-source contributions.
-📫 Reach me **skshahezeen786.ap@gmail.com**
+- 📫 Reach me **skshahezeen786.ap@gmail.com**
 ---
 
 ## 💻 Tech Stack
@@ -34,7 +32,9 @@
 
 ## 🏆 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shahezeen786?theme=dark&font=Karma)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shahezeen786?theme=dark&font=Karma" alt="LeetCode Stats" />
+</p>
 
 ---
 ## 🌐 Connect With Me
