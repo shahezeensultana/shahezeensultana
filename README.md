@@ -1,9 +1,10 @@
-# Hi 👋, I'm Shahezeen
+<h1 align="center">Hi 👋, I'm Shahezeen</h1>
+<hr >
+<h3 align="center">🎓 Computer Science Engineering (Cybersecurity) Student</h3>
 
-### 🎓 Computer Science Engineering (Cybersecurity) Student
-
+<p align="center">
 💻 Software Developer | 🔐 Cybersecurity Enthusiast
-
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Coding+Enthusiast;" />
@@ -36,19 +37,12 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shahezeen786?theme=dark&font=Karma)
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/shahezeensultana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+**[GitHub](https://github.com/shahezeensultana)** |
+**[LinkedIn](https://www.linkedin.com/in/shahezeen-sultana/)** |
+**[LeetCode](https://leetcode.com/u/shahezeen786/)**
 
-  <a href="https://www.linkedin.com/in/shahezeen-sultana/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/shahezeen786/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
