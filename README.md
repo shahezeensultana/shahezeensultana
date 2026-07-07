@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahezeen</h1>
-<hr >
+
 <h3 align="center">🎓 Computer Science Engineering (Cybersecurity) Student</h3>
 
 <p align="center">
