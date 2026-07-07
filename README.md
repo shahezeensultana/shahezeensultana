@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahezeen</h1>
 
-<p align="center">
-<strong>🎓 Computer Science Engineering (Cybersecurity) Student</strong> | 💻 Software Developer | 🔐 Cybersecurity Enthusiast
-</p>
-
+<h3 align="center">
+🎓 Computer Science Engineering (Cybersecurity) Student | Full Stack Developer
+</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Coding+Enthusiast;" />
 </p>
@@ -42,7 +41,3 @@
 **[GitHub](https://github.com/shahezeensultana)** |
 **[LinkedIn](https://www.linkedin.com/in/shahezeen-sultana/)** |
 **[LeetCode](https://leetcode.com/u/shahezeen786/)**
-
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
