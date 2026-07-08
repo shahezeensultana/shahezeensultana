@@ -6,9 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Coding+Enthusiast;" />
 </p>
-
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering (Cybersecurity) student passionate about technology and secure software development.
