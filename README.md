@@ -18,7 +18,6 @@
 - 🤝 Open to internships, collaborations, and open-source contributions.
 - 📫 Reach me **skshahezeen786.ap@gmail.com**
 ---
-
 ## 💻 Tech Stack
 
 <p align="center">
