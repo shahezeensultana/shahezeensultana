@@ -8,7 +8,6 @@
 </p>
 ---
 ## 👨‍💻 About Me
-
 - 🎓 Computer Science Engineering (Cybersecurity) student passionate about technology and secure software development.
 - 💻 Passionate about designing and developing modern applications that solve real-world challenges.
 - 🧩 Enjoy solving Data Structures and Algorithms (DSA) problems to strengthen my problem-solving skills.
