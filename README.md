@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mysql,git,github,vscode,firebase,aws" />
 </p>
-
 ---
 
 ## 🏆 LeetCode
